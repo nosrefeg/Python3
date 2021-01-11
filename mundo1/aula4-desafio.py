@@ -1,0 +1,18 @@
+print('Desafio 1')
+nome = input('Digite seu nome: ')
+print('Olá', nome, 'seja bem vindo, meu caro!')
+print('')
+
+print('Desafio 2')
+print('Digite sua de nascimento!')
+dia = input("Digite o dia em que nasceu: ")
+mes = input("Digite o mês em que nasceu: ")
+ano = input("Digite o ano em que nasceu: ")
+print(dia+'/'+mes+'/'+ano)
+print('')
+
+print('Desafio 3')
+print('Digite sua de nascimento!')
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite outro número: "))
+print(num1 + num2)
