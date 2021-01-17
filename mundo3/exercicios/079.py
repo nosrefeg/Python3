@@ -16,4 +16,5 @@ while True:
         break
 
 valores.sort()
+print('==' * 30)
 print(f'Os valores únicos digitados foram {valores}')
