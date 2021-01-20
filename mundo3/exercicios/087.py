@@ -20,6 +20,8 @@ print(
     f'A soma dos valores da terceira coluna é {tColum}')
 print(f'O maior valor da segunda linha é {max(matriz[1])}')
 
+# Minha primeira solução
+
 # matriz = [[[], [], []], [[], [], []], [[], [], []]]
 # pares = 0
 # for i in range(0, 3):
