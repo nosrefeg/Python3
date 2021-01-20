@@ -27,6 +27,7 @@ for i in range(0, qtdJogos):
     print(f'Seu jogo número {i + 1} é: {mega[i]}')
     sleep(1)
 print(f'{" BOA SORTE ":$^60}')
+
 # Minha primeira solução
 
 # from random import randint
