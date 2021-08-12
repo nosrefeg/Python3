@@ -4,7 +4,7 @@ import mysql.connector
 banco = mysql.connector.connect(
     host="127.0.0.1",
     user="root",
-    password="Geferson00",
+    password="",
     database="padaria"
 )
 
