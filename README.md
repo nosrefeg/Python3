@@ -1,1 +1,1 @@
-# Python3-Curso-em-Video
+# Estudos e projetos em Python
